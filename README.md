@@ -1,4 +1,4 @@
 # mvcad-cursos
 
-Repositório de gestão de inscrição, em python executado no Pycharm.
+Repositório de gestão de inscrição, em python e executado no Pycharm.
  
